@@ -125,7 +125,7 @@ export function SideBar(props: { className?: string }) {
           请在设置中填写API-KEY
         </div>
         <div className={styles["sidebar-sub-title"]}>
-          API-KEY请于知识星球获取
+          API-KEY请扫描公众号获取
         </div>
         <div className={styles["sidebar-logo"] + " no-dark"}>
           <ChatGptIcon />
